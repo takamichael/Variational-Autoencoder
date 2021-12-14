@@ -7,6 +7,6 @@ In the past i worked with linear VAE, VAE, bVAE and MMD-VAE.
 
 
 
-In this notebook I have only two VAE codes the bVAE and MMD-VAE, which I found the most useful in identifying phenotypes.
+In this notebook, I have two VAE codes the bVAE and MMD-VAE, which I found the most useful in identifying phenotypes.
 I have tested this autoencoder for cytoplasm, mitochondria, vacuole, and nucleus 
-The code is a bit messy as I am inputting new data and consistently playing with the different latent values. I found that a simple linear regression and k means proved to be the most efficient. 
+The code is a bit messy as I am using new data and consistently playing with the different latent values. I found that a simple linear regression and k means proved to be the most efficient. 
